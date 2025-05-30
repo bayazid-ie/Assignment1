@@ -1,0 +1,38 @@
+body{
+      background-color: #111;
+      color: #fff;
+    }
+.highlight {
+      color: cyan;
+    }
+.btn-custom {
+      background-color: cyan;
+      color: black;
+    }
+.badge{
+      background-color: #6c757d;
+      color: #ddd;
+      margin: 2px;
+    }
+.project{
+      background-color: #1f1f1f;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+.contact{
+      background-color: #1f1f1f;
+      padding: 20px;
+      
+    }
+      .navbar-brand img {
+      height: 40px;
+    }
+.navbar{
+    gap:70px;
+    
+}
+.shadow-custom{
+    border: 1px solid gray;
+    box-shadow: 4px 4px 8px gray;
+}
